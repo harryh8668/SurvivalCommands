@@ -1,0 +1,26 @@
+name: SurvivalCommands
+main: me.harry.survivalcommands.SurvivalCommands
+version: 1.0
+author: harry8668
+api-version: 1.18
+commands:
+  anvil:
+    description: opens anvil to the player
+  smoker:
+    description: opens a smoker
+  craft:
+    description: opens a crafting table
+  enchantingtable:
+    description: opens an enchant table
+    aliases:
+      - et
+  enderchest:
+    description: opens players enderchest
+    aliases:
+      - ec
+  furnace:
+    description: opens smelt gui
+    aliases:
+      - smelt
+  smithingtable:
+    description: opens smithing table
